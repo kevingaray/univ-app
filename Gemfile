@@ -35,3 +35,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'net-imap', require: false
 gem 'net-pop', require: false
 gem 'net-smtp', require: false
+
+# css
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons' 
