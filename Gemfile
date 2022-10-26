@@ -36,6 +36,7 @@ gem 'net-imap', require: false
 gem 'net-pop', require: false
 gem 'net-smtp', require: false
 
-# css
-gem 'materialize-sass', '~> 1.0.0'
+# for css and jquery 
+# run 'yarn add jquery' and 'yarn add materialize-css'
 gem 'material_icons' 
+
