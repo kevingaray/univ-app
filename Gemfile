@@ -40,3 +40,5 @@ gem 'net-smtp', require: false
 # run 'yarn add jquery' and 'yarn add materialize-css'
 gem 'material_icons' 
 
+# to has password
+gem 'bcrypt', '~> 3.1.7'
